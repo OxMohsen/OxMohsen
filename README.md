@@ -38,7 +38,7 @@ me.say_hi()
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/OxMohsen/OxMohsen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxMohsen&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Mohsen's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxMohsen&hide=html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Mohsen's GitHub Stats" />
 </a>
 
 <a href="https://github.com/OxMohsen/OxMohsen">
